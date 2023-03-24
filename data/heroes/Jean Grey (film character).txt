@@ -1,0 +1,180 @@
+{{Short description|Character in the X-Men film series}}
+{{Infobox character
+| color = 
+| name = Jean Grey
+| series = [[X-Men (film series)|X-Men]]
+| image = Jean Last Stand.jpg
+| alt = 
+| caption = [[Famke Janssen]] as Jean Grey / Phoenix in ''[[X-Men: The Last Stand]]''
+| first_major = [[X-Men (film)|X-Men]]
+| first_minor = 
+| first_date = 2000
+| last_major = [[Dark Phoenix (film)|Dark Phoenix]]
+| last_minor = 
+| last_date = 2019
+| creator = 
+| based_on = {{based_on|[[Jean Grey]]|[[Stan Lee]]|[[Jack Kirby]]}}
+| adapted_by = [[Bryan Singer]]<br/>[[Tom DeSanto]]
+| designer = 
+| portrayer = [[Famke Janssen]]<br>(2000 - 2014)<br>[[Haley Ramm]]<br>(child, 2006)<br>[[Sophie Turner]]<br>(2016 - 2019)<br>Summer Fontana<br>(child, 2019)
+| voice = 
+| motion_actor = 
+| full_name = Jean Grey
+| nickname = [[Phoenix Force (comics)|Phoenix]]
+| alias =
+| species = [[Mutant (Marvel Comics)|Mutant]]
+| gender = Female
+| title = 
+| occupation = Scientist / physician<br>(original timeline)
+| affiliation = X-Men
+| fighting_style = 
+| weapon = 
+| family = John Grey<br>(father; deceased)<br>Elaine Grey<br>(mother; deceased)
+| spouse = <!-- or |spouses= -->
+| significant_other = Scott Summers
+| children = 
+| relatives = 
+| religion = 
+| origin = <!-- or |home= -->
+| nationality = [[United States|American]]
+|lbl21=Powers and abilities
+|data21=* Telepathy<br>
+* Telekinesis
+* Matter transmutation
+* Precognitive dreams
+}}
+'''Jean Grey''' is a [[Character (arts)|fictional character]] featured in seven films in the ''[[X-Men (film series)|X-Men]]'' film series, starting with ''[[X-Men (film)|X-Men]]'' (2000) and ending with ''[[Dark Phoenix (film)|Dark Phoenix]]'' (2019). Jean was portrayed by Dutch actress [[Famke Janssen]] in five films, with \"Jean\" in ''[[The Wolverine (film)|The Wolverine]]'' (2013) being a posthumous hallucination in [[Logan (film series character)|Logan]]'s head and her appearance in ''[[X-Men: Days of Future Past]]'' (2014) being a brief flashforward scene. For the 2016 film ''[[X-Men: Apocalypse]]'', Jean was recast with English actress [[Sophie Turner]], who would reprise her role in ''Dark Phoenix'' in 2019.
+
+==Fictional character biography==
+{{expand section|date=September 2021}}
+<!---Remember to keep it brief though! This is not Fandom, so brief detail of her character arc will do.--->
+
+===Early life===
+
+''[[X-Men: The Last Stand]]'' and ''Dark Phoenix'' each has a [[Flashback (narrative)|flashback]] sequence for Jean; because of the events of ''X-Men: Days of Future Past'', these two flashbacks takes place in two different realities.<ref>{{cite web | title=The X-Men Timeline | url=https://the-artifice.com/x-men-timeline/ |  publisher=The Artifice | date=November 29, 2019 | access-date=September 9, 2020}}</ref>
+
+In the original timeline, Jean is visited by Charles Xavier ([[Patrick Stewart]]) and Erik Lehnsherr ([[Ian McKellen]]) after her parents had been concerned about what they believed to be a type of \"illness\" in their daughter. The girl is shown levitating multiple cars and other objects with her telekinetic powers and the two elder mutants, still friends at the time, invite Jean to the [[X-Mansion|Xavier School for Gifted Youngsters]]. The professor later explains that while she was young, he put psychic dampers on her mind to help control a supposed \"dark side\" within her subconscious, preventing her powers from spiraling out of control and hurting others and herself.<ref name=\"laststand\" group=P>{{cite AV media | title=[[X-Men: The Last Stand]] | date=May 26, 2006 | publisher=[[20th Century Fox]] | people=[[Brett Ratner]] (director); [[Simon Kinberg]] & [[Zak Penn]] (writers)}}</ref>
+
+In the second timeline, Jean is in a car with her parents, causing a car crash with her out-of-control mental powers, killing her mother and leaving her father afraid of his own daughter and refusing to see her later on; Jean is led to believe that her father also died in the crash. She is approached by Charles Xavier ([[James McAvoy]]), who tries to help the troubled girl, inviting her to enroll in his school.<ref name=\"darkphoenix\" group=P>{{cite AV media | title=[[Dark Phoenix (film)|Dark Phoenix]] | date=June 7, 2019 | publisher=[[20th Century Fox]] | people=[[Simon Kinberg]] (director and writer)}}</ref>
+
+==Background and creation==
+
+===Development===
+
+The casting call for the first ''X-Men'' film specifies Jean Grey's character as a \"''Beautiful and intelligent scientist. Also an X-Man. She has telepathic and telekinetic powers. Engaged to Cyclops and yearned for by Wolverine. Late 20s''\".<ref>{{cite web | title=X-MEN casting call desires... | url=http://legacy.aintitcool.com/node/3588 | date=May 11, 1999 | access-date=September 9, 2020 | publisher=[[Ain't It Cool News]]}}</ref> Reports from pre-production in 1999 indicated that Jean being written to be a scientist - which she is not in the comics - was due to Beast/Hank McCoy, the team's resident scientist, originally being part of the script but dropped due to budget concerns.<ref>{{cite web | title=X-Men - Second Archive | url=http://www.corona.bc.ca/films/details/xmenB.html | archive-url=https://web.archive.org/web/20000817034140/http://www.corona.bc.ca/films/details/xmenB.html | archive-date=August 17, 2000 | url-status=dead | publisher=Coming Attractions}}</ref> Since director [[Bryan Singer]] had gone with a younger, teenage portrayal of [[Rogue (Marvel Comics)|Rogue]] ([[Anna Paquin]]), he felt that he wanted a more mature Jean in contrast.<ref>{{cite magazine | magazine=[[Cinefantastique]] | volume=32 | issue=2 | date=August 2000 | title=X-Men: Filming Marvel superheroes | author=Paul Wardle | pages=12\u201322}}</ref>
+
+''[[X-Men: The Last Stand]]'' was originally meant to be a pure adaption of ''[[The Dark Phoenix Saga]]'' storyline from the comics, but [[Tom Rothman]] considered [[Simon Kinberg]]'s first outline to be \"too dark, too weird, and, potentially, too expensive\", and hired ''X2'' screenwriter [[Zak Penn]] to do a rewrite; Rothman was insistent upon forcing a secondary plot, that of a cure for mutants, into the film. 20th Century Fox, which owned the film rights to the X-Men franchise, was also wary of going for a film with a female lead, as its own film ''[[Elektra (2005 film)|Elektra]]'' (2005), as well as the [[Warner Bros. Pictures]]' film ''[[Catwoman (film)|Catwoman]]'' (2004), were both critical failures while ''Catwoman'' was also a [[box-office bomb]]. Rothman feared that the nature of the [[Phoenix Force (comics)|Phoenix Force]], being akin to a giant cosmic bird, would not appeal to the masses in a cinematic setting and decided to cut that portrayal of Jean's powers.
+
+He also noted that Jean Grey would have committed suicide by the end, which was redundant with the ending of ''X2''. The \"Dark Phoenix\" storyline was thus relegated to a secondary substory in ''The Last Stand''. Simon Kinberg was disappointed by this outcome, calling the Dark Phoenix Saga \"the ultimate X-Men story\" and compared reducing it to a secondary subplot to sidelining the [[Book of Genesis]] chapter from [[The Bible]].<ref>{{cite web | title=The X-Men's Never-Ending 'Dark Phoenix Saga' Saga | url=https://www.theringer.com/movies/2019/6/6/18653935/dark-phoenix-x-men-adaptation-comic-books-chris-claremont-last-stand-animated-series | publisher=[[The Ringer (website)|The Ringer]] | author=Thomas Golianopoulos | date=June 6, 2019 | access-date=September 16, 2019}}</ref> At one point, [[Matthew Vaughn]] (the original director of ''The Last Stand'' before Brett Ratner took over) wanted Wolverine to carry [[Leech (comics)|Leech]] with him to Jean to depower her; Penn felt that this was a cop-out and Jean had to pay for her crimes, and depowering her would also not fix her broken state of mind.<ref>{{cite web | title=Q&A: X-Men 3 writers Zak Penn and Simon Kinberg | url=http://new.hollywoodgothique.com/x-men-3-writers-speak-2/ | publisher=Hollywood Gothique | author=Steve Biodrowski | date=June 12, 2006 | access-date=September 16, 2020}}</ref>
+
+The 2019 ''Dark Phoenix'' film was originally meant to be a two part storyline, one film named only ''Phoenix'' and then ''Dark Phoenix'' as its sequel. However, the producers were unhappy with the outcome of ''X-Men: Apocalypse'' and cancelled the second sequel, forcing Simon Kinberg to compress his storyline into one film. His original ending had Jean dying at the end, but this ending was poorly received with test audiences for the film and was changed to a more hopeful outcome.<ref name=\"popmatters2020\">{{cite web | title='X-Men: Dark Phoenix' Will Never Rise from the Ashes | url=https://www.popmatters.com/simon-kinberg-xmen-dark-phoenix-2647050051.html | publisher=[[PopMatters]] | author=Michael Curley | date=August 26, 2020 | access-date=September 13, 2020}}</ref>
+
+===Casting===
+[[File:SDCC 2015 - Sophie Turner & Nicholas Hoult (19752767692).jpg|thumb|[[Sophie Turner]] and [[Nicholas Hoult]] at a Comic-Con panel for ''X-Men: Apocalypse''.]]
+In 1998, it was rumoured that [[Julianne Moore]] was in the talks for the ''X-Men'' film at the time, presumably for the role of Jean Grey.<ref>{{cite web | title=Film, not talk, Singer's thing | url=http://www2.thestar.com/thestar/back_issues/ED19981023/entertainment/981023ENT06_MO-SINGER22.html | date=October 23, 1998 | access-date=September 9, 2020 | archive-url=https://web.archive.org/web/19990420121955/http://www2.thestar.com/thestar/back_issues/ED19981023/entertainment/981023ENT06_MO-SINGER22.html | archive-date=April 20, 1999 | url-status=dead | publisher=[[Toronto Star]] | author=Peter Howell}}</ref><ref>{{cite web | title=More X-MEN Casting Rumors | url=http://legacy.aintitcool.com/node/2404 | date=October 29, 1998 | access-date=September 9, 2020 | publisher=[[Ain't It Cool News]]}}</ref> [[Helen Hunt]] was offered the role, but turned it down,<ref>{{cite web | title=11 Actors Who Were Almost 'X-Men' | url=https://www.hollywood.com/movies/actors-who-were-almost-x-men-60584312/#/ms-22777/3 | publisher=[[Hollywood.com]] | date=May 2016 | access-date=September 9, 2020}}</ref> as did [[Charlize Theron]].<ref>{{cite web | title=Charlize Theron Turned Down Jean Grey Role In X-Men | url=https://screenrant.com/xmen-movie-2000-charlize-theron-jean-grey-role/ | author=Rachel Labonte | publisher=[[Screen Rant]] | date=July 15, 2020 | access-date=September 9, 2020}}</ref> [[Peta Wilson]] auditioned for the role.<ref>{{cite magazine | magazine=[[Starlog]] | publisher=Starlog Group, Inc. | issue=311 | date=June 2003 | title=In Hot Blood | pages=76\u201379 | author=Will Murray | others=[[Pete Wilson]] (interviewed)}}</ref> [[Ashley Judd]], [[Alicia Witt]], [[Selma Blair]], [[Robin Wright|Robin Wright-Penn]], [[Minnie Driver]] and [[Maria Bello]] were also all rumoured to have been auditioning for the role at the time.<ref>{{cite web | title=X-Men - Third Archive | publisher=Corona Coming Attractions | url=http://www.corona.bc.ca/films/details/xmenC.html | date=June 12, 1999 | archive-url=https://web.archive.org/web/20000817034146/http://www.corona.bc.ca/films/details/xmenC.html | archive-date=August 17, 2000 | access-date=September 9, 2020 | url-status=dead}}</ref><ref name=\"backstagepass\">{{cite web | title=THE UNCANNY X-MEN | url=http://backstage-pass.com/xmen_archive.htm | publisher=Backstage Pass | date=October 13, 1999 | archive-url=https://web.archive.org/web/19991013000839/http://backstage-pass.com/xmen_archive.htm | archive-date=October 13, 1999 | access-date=September 9, 2020 | url-status=dead}}</ref> [[Lucy Lawless]] was invited to audition, possibly for the role of Jean, but choose to abstain due to her real life pregnancy and her otherwise busy schedule with ''[[Xena: Warrior Princess]]''.<ref>{{cite magazine | magazine=[[Herald Sun]] | location=Melbourne, Australia | title=Lucy in the Sky | url=http://www.lucylawless.net/articles/2003/sun1103/heraldsun1103.php | date=November 16, 2003 | access-date=September 9, 2020 | via=Australian Lucy Lawless Fan Site}}</ref> In early August 1999, it was reported by [[Variety (magazine)|Daily Variety]] that Dutch model turned actress [[Famke Janssen]] had been cast as Jean Grey.<ref name=\"backstagepass\" />
+
+For ''[[X-Men: Apocalypse]]'' (2016), [[Hailee Steinfeld]], [[Elle Fanning]], [[Chlo\u00eb Grace Moretz]]<ref>{{cite web | title='X-Men: Apocalypse': Who's Being Eyed to Play Young Jean Grey, Cyclops? (Exclusive) | url=https://www.thewrap.com/x-men-apocalypse-whos-being-eyed-to-play-young-jean-grey-cyclops-exclusive/ | publisher=[[The Wrap]] | author=Jeff Sneider | date=November 18, 2014 | access-date=September 9, 2019}}</ref> and [[Saoirse Ronan]]<ref>{{cite web | title=X-Men: 8 Possible Castings Better Than What We Got (And 7 Worse) | url=https://www.cbr.com/possible-x-men-casting/ | publisher=[[Comic Book Resources]] | website=cbr.com | author=Joseph Dooley | date=April 2, 2018 | access-date=September 9, 2020}}</ref> had been among those who auditioned for the role of the younger Jean. [[Grace Fulton]], who would go to play [[Mary Marvel|Mary Bromfield]] in the [[DC Extended Universe]] ''[[Captain Marvel (DC Comics)|Shazam]]'' films, also auditioned to play Jean.<ref>{{cite news |first=Jenna |last=Anderson |title=Shazam! Fury of the Gods Star Auditioned for a Surprising X-Men Role |url=https://comicbook.com/movies/news/shazam-fury-of-the-gods-star-grace-caroline-currey-auditioned-x-men-jean-grey/ |website=ComicBook.com |date=February 21, 2023 |access-date=February 22, 2023}}</ref> [[Sophie Turner]], after being cast as younger Jean, contacted Famke Janssen about advice on playing the role, but was told that there was nothing that Janssen could teach that her she didn't already know, as well as being wished good luck with the role.<ref>{{cite web | title=Famke Janssen Speaks Candidly About Her Departure From 'X-Men': Producers 'Gave Up On Me' | url=https://www.usmagazine.com/celebrity-news/news/why-famke-janssen-exited-x-men-movie-franchise/ | publisher=[[Us Weekly]] | website=usmagazine.com | author=Marc Lupo | date=October 19, 2017 | access-date=September 9, 2020}}</ref> To prepare for the role, Turner studied how [[schizophrenia]] and [[dissociative identity disorder]] works in real life.<ref>{{cite web | title=X-Men: Dark Phoenix heats up EW's First Look Issue | url=https://ew.com/movies/2017/12/07/xmen-dark-phoenix-first-look-cover/ | publisher=[[Entertainment Weekly]] | website=ew.com | author=Tim Stack | date=December 7, 2017 | access-date=September 14, 2020}}</ref>
+
+===Characterization and special effects===
+<!-- Only effects that concern Jean specifically, please... --->
+In ''X-Men: The Last Stand'', Jean's appearance when the Phoenix takes control was created by [[John Bruno (special effects)|John Bruno]] working with [[Moving Picture Company]]. MPC used [[particle system]]s to create the effect of Jean's hair seemingly moving when the Phoenix effect takes over. MPC made hundreds of skin and eye treatments and used a 3D model of Famke Janssen's face when [[compositing]] them into Jean's digital makeup. According to [[Nicolas Aithadi]] (MPC),
+
+:The idea was that when the Dark Phoenix is taking over, Jean's skin darkens, veining appears on her face, and her eyes go black. We went through hundreds of iterations with different degrees of darkness, with more or fewer visible veins. At the end, we went for a 'less is more' look and made the effect more sublle - but still enough to give Jean a scary look.<ref name=\"cinefex\">{{cite journal |title=Dark Phoenix Rising |first=Jody |last=Duncan |journal=[[Cinefex]] |issue=106 |date=July 2006 |pages=36\u201365}}</ref>
+
+==Reception==
+
+Joe Garza of ''[[SlashFilm|Slashfilm]]'' ranked Jean Grey from the [[X-Men (film series)|X-Men film series]] 1st in their \"Most Powerful X-Men Characters\" list.<ref>{{Cite web |last=Garza |first=Joe |date=2022-07-17 |title=The Most Powerful X-Men Characters Ranked |url=https://www.slashfilm.com/930519/the-most-powerful-x-men-characters-ranked/ |access-date=2022-08-08 |website=SlashFilm.com |language=en-US}}</ref> Alexandra Moroca of ''[[CBR.com]]'' ranked Jean Grey 1st in their \"10 Strongest X-Men In The Fox Movies\" list.<ref>{{Cite web |last=Moroca |first=Alexandra |date=2022-03-12 |title=10 Strongest X-Men In The Fox Movies, Ranked |url=https://www.cbr.com/strongest-x-men-in-the-fox-movies-ranked/ |access-date=2022-08-08 |website=CBR |language=en-US}}</ref> ''[[The A.V. Club]]'' ranked Framke Janssen's Jean Grey 60th in their \"100 best Marvel characters\" list.<ref name=\":0\">{{Cite web |date=2022-07-06 |title=The 100 best Marvel characters ranked: 60-41 |url=https://www.avclub.com/marvel-movie-tv-heroes-ranked-1849136246 |access-date=2022-08-08 |website=The A.V. Club |language=en-us}}</ref>
+
+[[Famke Janssen]] received praise from multiple critics for her portrayal of Jean Grey. Scoot Allan of ''[[CBR.com]]'' ranked Janssen's performance 4th in their \"10 Best Performances In The X-Men Movies\" list, writing, \"Janssen brought the character\u2019s love for Scott Summers and her interest in Wolverine to the big screen. She also perfectly portrayed Jean\u2019s struggle with her powers that ultimately led to her loss of control in ''X-Men: The Last Stand''. Janssen\u2019s portrayal of Jean Grey and her final moments impressed fans.\"<ref>{{Cite web |last=Allan |first=Scoot |date=2022-06-14 |title=10 Best Performances In The X-Men Movies |url=https://www.cbr.com/best-performances-x-men-movies/ |access-date=2022-08-08 |website=CBR |language=en-US}}</ref> Christian Bone of ''[[Starburst (magazine)|Starburst]]''  ranked Janssen's performance 8th in their \"10 Greatest Performances in the X-Men Movies\" list, stating, \"Though most famous to film fans at the time as the OTT Xenia Onatopp in ''[[GoldenEye|Goldeneye]]'', Famke Janssen proved to be the best choice to bring Jean Grey to life in the original X-Men trilogy. Her Jean is a gentle, caring woman who nonetheless has an apocalyptic power within her that she can\u2019t comprehend.\"<ref>{{Cite web |title=10 Greatest Performances in the X-Men Movies |url=https://www.starburstmagazine.com/features/10-greatest-performances-x-men-movies |access-date=2022-08-08 |website=STARBURST Magazine |language=en-GB}}</ref> K.J. Stewart of ''[[WhatCulture]]'' ranked Janssen's performance 25th in their \"50 Greatest Performances In Marvel Movies\" list, saying, \"Janssen has had to portray both the good Jean Grey and the malevolent Phoenix and each role has been performed comfortable. She has conveyed the wise and moral Jean just as well as the evil Phoenix entity.\"<ref>{{Cite web |last=Stewart |first=K. J. |date=2015-03-14 |title=50 Greatest Performances In Marvel Movies |url=https://whatculture.com/film/50-greatest-performances-in-marvel-movies |access-date=2022-08-08 |website=WhatCulture.com |language=en}}</ref> ''[[The A.V. Club]]'' stated, \"Janssen is the emotional anchor of those early X-Men movies, setting a high standard for psychological honesty as a method to cut through some overwhelming X-Men lore that requires a Cerebro to decode. Watching Janssen\u2019s big Moses moment during [[X2 (film)|''X2'']]'s climax, it\u2019s clear that she\u2019s a pioneer in these massive CGI set-pieces.\"<ref name=\":0\" />
+
+Hugh Armitage and Simon Reynolds of ''[[Digital Spy]]'' called Sophie Turner's portrayal of Jean Grey \"hugely likable\" across ''[[X-Men: Apocalypse]]''.<ref>{{Cite web |last=Reynolds |first=Simon |date=2019-06-05 |title=X-Men movies ranked worst to best |url=http://www.digitalspy.com/movies/a658411/x-men-movies-ranked-worst-to-best/ |access-date=2022-08-08 |website=Digital Spy |language=en-GB}}</ref> Robin Reynolds of ''[[MovieWeb]]'' ranked Turner's portrayal as Jean Grey in ''[[X-Men: Apocalypse]]'' and ''[[Dark Phoenix (film)|Dark Phoenix]]'' 2nd in their \"Sophie Turner's 5 Best Performances\" list, writing, \"The best part about having Turner play this character is getting to see how Jean transforms over the course of the films. Her acting is top-notch, and she brings so much depth to the character's struggles that anyone can relate.\"<ref>{{Cite web |last=Reynolds |first=Robin |date=2022-07-24 |title=Sophie Turner's 5 Best Performances, Ranked |url=https://movieweb.com/sophie-turner-best-performances/ |access-date=2022-08-08 |website=MovieWeb |language=en-US}}</ref>
+
+=== Accolades ===
+{| class=\"wikitable\"
+|+
+!Year
+!Award
+!Category
+!Nominated Work
+!Nominee(s)
+!Result
+!Ref.
+|-
+|2000
+|[[Blockbuster Entertainment Awards]]
+|Favorite Supporting Actress \u2013 Science Fiction
+|''[[X-Men (film)|X-Men]]''
+| rowspan=\"3\" |[[Famke Janssen]]
+|{{Nominated}}
+| style=\"text-align:center;\"| <ref>{{Cite web |title=Famke Janssen Movies & TV Shows - How many have you seen? |url=https://www.throughtheclutter.com/famke-janssen-10790.php |access-date=2022-08-08 |website=www.throughtheclutter.com |language=en-US}}</ref>
+|-
+|2006
+|[[Teen Choice Awards]]
+|[[Teen Choice Award for Choice Liplock]] <small>(Shared with [[Hugh Jackman]])</small>
+| rowspan=\"2\" |''[[X-Men: The Last Stand]]''
+|{{Nominated}}
+| style=\"text-align:center;\"| <ref>{{Cite web |title=Famke Janssen |url=https://www.mymoviepicker.com/personne/famke-janssen-10016/recompenses.htm |access-date=2022-08-08 |website=www.mymoviepicker.com}}</ref>
+|-
+|2007
+|[[Saturn Awards]]
+|[[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
+|{{Win}}
+| style=\"text-align:center;\"| <ref>{{Cite web |date=2007-05-11 |title='Superman' tops Saturns |url=https://variety.com/2007/film/awards/superman-tops-saturns-1117964717/ |access-date=2022-08-08 |website=Variety |language=en-US}}</ref>
+|-
+|2017
+|[[2017 Kids' Choice Awards|Kids Choice Awards]]
+|Favorite Squad
+|''[[X-Men: Apocalypse]]''
+| rowspan=\"1\" |[[James McAvoy]], [[Michael Fassbender]], [[Jennifer Lawrence]], [[Nicholas Hoult]], [[Evan Peters]], [[Tye Sheridan]], [[Ben Hardy (actor)|Ben Hardy]], [[Kodi Smit-McPhee]], [[Sophie Turner]], [[Alexandra Shipp]], [[Olivia Munn]]
+|{{Nominated}}
+| style=\"text-align:center;\"| <ref>{{cite web |last=Levy |first=Dani |date=2 February 2017 |title=Justin Timberlake and Kevin Hart Lead Nickelodeon's Kids' Choice Awards Nominations |url=https://variety.com/2017/tv/news/nickelodeon-kids-choice-awards-nominations-2017-full-list-1201975603/ |access-date=3 February 2017 |work=[[Variety (magazine)|Variety]]}}</ref>
+|-
+|2019
+|[[2019 Teen Choice Awards|Teen Choice Awards]]
+|[[Teen Choice Award for Choice Movie Actress \u2013 Sci-Fi/Fantasy|Choice Sci-Fi/Fantasy Movie Actress]]
+|''[[Dark Phoenix (film)|Dark Phoenix]]''
+| rowspan=\"1\" |[[Sophie Turner]]
+|{{Nominated}}
+| style=\"text-align:center;\"| <ref>{{cite web |last1=Moreau |first1=Jordan |date=19 June 2019 |title='Avengers: Endgame,' 'Riverdale,' 'Aladdin' Top 2019 Teen Choice Award Nominations |url=https://variety.com/2019/film/news/teen-choice-awards-nominations-avengers-endgame-riverdale-1203247410/ |access-date=19 July 2019 |website=Variety |language=en}}</ref>
+|}
+
+=== Merchandising ===
+The Jean Grey from the first 2000 film was released as an action figure by [[Toy Biz]] in 2000. The figure has been criticized as \"a static, unflattering, and oddly posed representation of Famke Janssen.\"<ref>{{cite web |author=Darby Harn |date=May 24, 2020 |title=10 Worst X-Men Action Figures, Ranked |url=https://www.cbr.com/marvel-worst-x-men-action-figures-ranked/ |access-date=September 19, 2020 |website=cbr.com |publisher=[[Comic Book Resources]]}}</ref> The 2007 \"Dark Phoenix\" version of Jean Grey from ''X-Men: The Last Stand'' has been released as an action figure in ''[[Marvel Legends]]'' series.<ref>{{cite web |date=May 18, 2008 |title=Jean Grey (X3) - Marvel Legends - Blob Series - Hasbro Action Figure |url=https://www.figurerealm.com/actionfigure?action=actionfigure&id=10168&figure=jeangreyx3 |url-status=live |archive-url=https://web.archive.org/web/20151009220112/https://www.figurerealm.com/actionfigure?action=actionfigure&id=10168&figure=jeangreyx3 |archive-date=October 9, 2015 |access-date=September 19, 2020}}</ref>
+
+==References==
+===Primary===
+{{reflist | group=P}}
+
+===Secondary===
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Jean_Grey_(Earth-10005) Jean Grey] (original timeline) at Marvel Database
+* [https://marvel.fandom.com/wiki/Jean_Grey_(Earth-TRN414) Jean Grey] (new timeline) at Marvel Database
+
+{{X-Men characters}}
+{{X-Men in film}}
+
+{{DEFAULTSORT:Grey, Jean (film series character)}}
+[[Category:X-Men (film series) characters]]
+[[Category:Film characters introduced in 2000]]
+[[Category:Female characters in film]]
+[[Category:Fictional avatars]]
+[[Category:Fictional characters from New York (state)]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional matricides]]
+[[Category:Fictional mariticides]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional characters with dissociative identity disorder]]
+[[Category:Fictional schoolteachers]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with precognition]]
+[[Category:Marvel Comics characters who have mental powers]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]] 
+[[Category:Marvel Comics telekinetics]]
+[[Category:Marvel Comics telepaths]]
+[[Category:X-Men members]]
+[[Category:Film supervillains]]

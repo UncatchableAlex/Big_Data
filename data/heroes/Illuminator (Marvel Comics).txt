@@ -1,0 +1,56 @@
+{{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
+|character_name = Illuminator
+|image = 
+|imagesize = 
+|converted = 
+|caption = 
+|publisher = [[Marvel Comics]]<br>[[Thomas Nelson (publisher)|Thomas Nelson]]
+|debut = ''Illuminator'' #1 (1993)
+|creators = [[Glenn Herdling]]<br>Craig Brasfield
+|alter_ego = Andrew Prentiss
+|species = 
+|alliances = 
+|aliases = Andy, Drew, Ghost of Christmas Yet to Come, Light-Boy, Light Creature, Spirit of the Crystals
+|partners = [[God in Christianity|God]] and [[Jesus]]
+|powers = [[Divinity#Divine force or power|Divine powers]]; [[luminescence]],flight, healing, afterimage, super strength, and durability
+|cat = super
+|subcat = Marvel Comics
+|hero = y
+|sortkey = Illuminator
+}}
+
+'''Illuminator''' is a fictional [[Christian media|Christian]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]],<ref name=\"Oropeza Lee 2005 p. 83\">{{cite book | last1=Oropeza | first1=B.J. | last2=Lee | first2=S. | title=The Gospel According to Superheroes: Religion and Pop Culture | publisher=Peter Lang | year=2005 | isbn=978-0-8204-7422-9 | url=https://books.google.com/books?id=d9B-9ll_YPIC&pg=PA83 | access-date=May 8, 2022 | page=83}}</ref> which debuted during a collaboration with [[Thomas Nelson (publisher)|Thomas Nelson]].<ref name=\"GamingRebellion 2018\">{{cite web | title=Wilds' Comics Conundrum: Illuminator \u2013 GamingRebellion | website=GamingRebellion | date=May 18, 2018 | url=https://www.gamingrebellion.com/2015/08/wilds-comics-conundrum-illuminator/ | access-date=May 8, 2022}}</ref> The character has starred in self-titled [[Limited series (comics)|limited series]] comics during 1993, released along with Marvel Comics adaptions of the story of [[Easter]], ''[[In His Steps]]'', ''[[The Screwtape Letters]]'', and ''[[The Pilgrim's Progress]]''.<ref name=\"Huckabee 2021\">{{cite web | last=Huckabee | first=Tyler | title=Meet the 1990s Marvel Christian Superhero Disney Doesn't Want You to Know About | website=RELEVANT | date=June 15, 2021 | url=https://relevantmagazine.com/culture/movies/meet-the-1990s-marvel-christian-superhero-disney-doesnt-want-you-to-know-about/ | access-date=May 8, 2022}}</ref><ref name=\" Grand Comics Database \">{{cite web | title=GCD :: Brand Emblem :: Marvel Comics; Nelson | website= Grand Comics Database | url=https://www.comics.org/brand_emblem/3183 | access-date=May 8, 2022}}</ref>
+
+==Fictional character biography==
+The character's alter ego is Andrew Prentiss a student and [[citizen science|citizen scientist]] from [[Fairview, Tennessee]], part of [[Nashville, Tennessee|Nashville]]. During a night at [[summer camp]] a light envelops him, it gives him the power of flight, [[luminescence]], and durability. He initially assumes the powers must have been granted by [[Extraterrestrial life|extraterrestrial]]s, but after returning home he saves himself and his brother from a demonic possessed man, and an elderly biker named Gus who witnessed the ordeal recognizes the powers as being [[divine]] in nature.<ref name=\"Thompson 2010 p. 1641\">{{cite book | last=Thompson | first=M. | title=Comics Shop | publisher=Penguin Publishing Group | year=2010 | isbn=978-1-4402-1650-3 | url=https://books.google.com/books?id=6hFjDwAAQBAJ&pg=PT1641 | access-date=May 8, 2022 | page=1641}}</ref> His powers are dependent on his [[Christianity|Christian faith]], which is depicted through his luminescence, and he uses his powers to combat demonic villains. He is one of the [[Marvel Universe]]'s [[Earth-616]] human mutate characters.
+
+===Supporting characters===
+His family consists of his parents Jay and Joan Prentiss, and his siblings Diana \"Didi\" Prentiss and Skip Prentiss.
+
+====Villains====
+*Nightfire, also known as Nick Malloy, is a human transformed into a demon due to a mystical necklace.
+*Gunthar, a demon made from stone under the control of an amethyst.
+
+==Publication history==
+* {{cite book | last1=Herdling | first1=Glenn | last2=Brasfield | first2=E. Craig | last3=Jones | first3=J. B. | last4=Turner | first4=Frank | last5=Mossoff | first5=Sarra | last6=Starkings | first6=Richard | title=Illuminator #1 | publisher=Marvel Comics | publication-place=New York, NY | date=1993 | isbn=0-8407-6979-2 | oclc=28278042 | language=en}}
+*{{cite book | last1=Herdling | first1=Glenn | last2=Brasfield | first2=E. Craig | last3=Jones | first3=J. B. | last4=Turner | first4=Frank | last5=Mossoff | first5=Sarra | last6=Starkings | first6=Richard | title=Illuminator #2 | publisher=Marvel Comics | publication-place=New York, NY | date=1993 | isbn=0-8407-7807-4 | language=en}}
+*{{cite book | last1=Herdling | first1=Glenn | last2=Brasfield | first2=E. Craig | last3=Jones | first3=J. B. | last4=Turner | first4=Frank | last5=Mossoff | first5=Sarra | last6=Starkings | first6=Richard | title=Illuminator #3 | publisher=Marvel Comics | publication-place=New York, NY | date=1993 | isbn=0-8407-6253-4 | oclc=948364807 | language=en}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{gcdb series|id=11031|title=''Illuminator''}}
+* {{Marveldatabase|Andrew Prentiss (Earth-616)}}
+
+[[Category:Comics characters introduced in 1993]]
+[[Category:Christian comics]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional characters who can manipulate light]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics superheroes]]
+
+
+{{Marvel-char-stub}}

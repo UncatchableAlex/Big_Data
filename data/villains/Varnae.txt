@@ -1,0 +1,71 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Varnae
+| image = 
+| caption = 
+| publisher = [[Marvel Comics]]
+| debut = ''[[Bizarre Adventures]]'' #33 (December 1982)
+| creators = [[Steve Perry (author)|Steve Perry]]<br>[[Steve Bissette]]
+| full_name =
+| species = [[Vampire]]
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = Lord of the Vampire<br>Vampire Prime
+| relatives =
+| supports=<!--optional-->
+| powers = *[[Superhuman strength]], stamina, durability, speed, agility, and reflexes
+*Accelerated [[healing]]
+*[[Hypnotism]]
+*[[Shapeshifting]]
+*[[Telepathy]]
+*[[Immortality]]
+| cat = super
+| subcat = Marvel Comics
+| villain = y
+| sortkey = {{PAGENAME}}
+}}
+'''Varnae''' is a [[Fictional character|fictional]] character appearing in [[American comic book|American comic books]] published by [[Marvel Comics]]. Created by [[Steve Perry (author)|Steve Perry]] and [[Steve Bissette]], the character first appeared in ''[[Bizarre Adventures]]'' #33 (December 1982). Varnae is a [[Villain|villainous]] [[vampire]] who has been an adversary of several of Marvel's supernatural and fantasy-related heroes, and is a major character in Marvel's [[Dracula (Marvel Comics)|Dracula]] [[mythos]]. He is named after ''[[Dracula]]'s'' literary predecessor, ''[[Varney the Vampire]]''.<ref>{{Cite web |title=How Does Vampirism Work in the Marvel Universe? |url=https://nerdist.com/article/marvel-vampires-how-they-work-dracula-blade-morbius/ |access-date=2022-11-26 |website=Nerdist |language=en-US}}</ref>
+
+== Publication history ==
+Varnae first appeared in ''[[Bizarre Adventures]]'' #33 (December 1982), and was created by [[Steve Perry (author)|Steve Perry]] and [[Steve Bissette]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=392}}</ref>
+
+Varnae's involvement with Dracula's origin was a [[retcon]] to the original Marvel version of Dracula's origin.  According to the origin given in ''[[Dracula Lives!]]'' #2 & 3, Dracula became the Lord of the Vampires by killing [[Nimrod (vampire)|Nimrod]], who held the title before him.  When revisiting the characters in the black and white magazine ''Bizarre Adventures'', [[Steve Bissette]] and [[John Totleben]] decided to go further back and create a worthy sire for Dracula, and inserted Varnae into a darker version of the story from ''Dracula Lives!''.  Much later, writer [[Roy Thomas]] revisited the character of Varnae while writing ''Conan the Barbarian'' and ''Doctor Strange'' in the early 1990s.  Thomas added the history of the character as an Atlantean and a foe of Conan and Red Sonja in the former, and revived the character in modernity in the \"Vampiric Verses\" storyline in the latter.  Varnae's history was further fleshed out by the addition of the battles with Thor (in ''[[Marvel Comics Presents]]'') and Aamshed (in the 2005 ''[[Tomb of Dracula]]'' miniseries).
+
+Varnae appeared as part of the \"Vampires\" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #20.
+
+== Fictional character biography ==
+Varnae was a sorcerer in ancient [[Atlantis (Marvel Comics)|Atlantis]] who was a member of the cult of the [[Darkhold]]ers.  The other Darkholders used the Darkhold tome to transform Varnae into the Earth's first vampire, but he turned on them when they tried to use him as a weapon against their nemesis, [[Kull of Atlantis|King Kull]]. Varnae became the Lord of the Vampires, and would retain that title for millennia.  When Atlantis sank beneath the sea during the Great Cataclysm, Varnae entered a state of suspended animation, and awoke thousands of years later during the [[Hyborian Age]]. There, he fought [[Conan the Barbarian]] and his allies [[Red Sonja]] and Zula, but was forced away by Zula's magic.<ref>''Conan, the Barbarian'' #244-245.</ref>  In ancient [[Sumer]]ia circa 2000 BC, Varnae and the sorceress Aamshed created a spell that could magnify a vampire's power, but Aamshed twisted the spell so that it could only be cast on a vampire's home soil (which, in Varnae's case, no longer existed), and it could only be cast every 2,000 years. When the next opportunity came to cast the spell around 1 AD, Varnae attempted to mystically raise Atlantis, but Aamshed foiled his plans. During the Viking Age, Varnae traveled to North America, where he discovered a colony of Vikings and battled the Norse god [[Thor (Marvel Comics)|Thor]].<ref>''Marvel Comics Presents'' #63.</ref>
+
+Eventually, Varnae tired of his existence, and set events in motion that would grant him a successor as the Lord of the Vampires. In the 15th century, Varnae manipulated a war between the Turkish Lord [[Turac]] and [[Dracula (Marvel Comics)|Dracula]], who was then the mortal Vlad Tepes, prince of Transylvania. During a battle with Turac's forces, Dracula was fatally wounded by the immortal [[Apocalypse (comics)|Apocalypse]], but was saved from death when he was bitten and transformed into a vampire by Varnae's servant [[Lianda]]. Varnae rewarded Lianda with death, and rewarded another minion, [[Nimrod (vampire)|Nimrod]], with a taste of Varnae's own blood. Varnae named Nimrod the Lord of the Vampires, then set Nimrod against the fledgling vampire Dracula as a test for Dracula, who was his real choice for the title. As Varnae watched from afar, Dracula slew Nimrod and his lover Lala, only to be slain alongside the assembled vampires by a mortal priest. Varnae arranged for one of his minions to deflower a virgin near the waters where Dracula's ashes had been scattered; exposure to the former virgin's hymeneal blood was enough for Dracula to return to life. Dracula then slew the minion and confronted Varnae, but Varnae effortlessly overpowered Dracula. Varnae then forced Dracula to drink his blood to the point of saturation, placed Dracula in a coffin to sleep through the coming day, and walked into the dawn to die in the sunlight.{{issue|date=November 2022}}
+
+In the modern day, the voodoo priestess [[Marie Laveau]] sought the blood of a vampire; she had been given a potion in the 19th century by the immortal [[Cagliostro]] that would make her temporarily ageless, but each draught of the potion required a vampire's blood. [[Doctor Strange]], the Earth's [[Sorcerer Supreme]], had previously used the Darkhold's Montesi Formula to destroy all of the Earth's vampires (including Dracula) and prevent any more vampires from being created. Although Laveau had once been able to obtain vampire blood via time travel, she instead sought to undo the Montesi Formula so that she could more easily obtain vampire blood. She tried to cast the Vampiric Verses from Strange's Book of the [[Vishanti]] to completely counter the Montesi Formula. When that failed, she used the Darkhold to recreate the Lord of the Vampires, but instead of resurrecting Dracula as had been expected, she revived Varnae. Varnae fought Strange, Laveau, and [[Brother Voodoo]] to a standstill, and left with a grudging respect for Strange as a nemesis.<ref>''Doctor Strange, Sorcerer Supreme'' #18.</ref>
+
+Varnae later fought several of Strange's allies [[Ghost Rider (Johnny Blaze)|John Blaze]] and the [[Nightstalkers (comics)|Nightstalkers]]. In his conflict with the Nightstalkers, Varnae took control of [[Bloodstorm (comics)#Bloodstorm|Bloodstorm]] (a [[Cloning|clone]] of Dracula) and transformed the Nightstalkers' ally Taj Nital into a vampire. In the final battle, the sorceress Salome, who had usurped Strange's title as Sorcerer Supreme, freed Bloodstorm, with the resulting battle ending in an explosion that apparently killed the Nightstalkers [[Frank Drake (comics)|Frank Drake]] (a descendant of Dracula) and [[Hannibal King]] (a vampire).<ref>''Nightstalkers'' #18.</ref> The remaining Nightstalker, [[Blade (comics)|Blade]], fought Varnae as well as Dracula, who had been reborn by the combination of the blood of Bloodstorm, King, and Drake. Since his rebirth, Dracula has again taken on the title of the Lord of the Vampires.<ref>''Blade'' #1.</ref>
+
+==Reception==
+* In 2021, ''[[Screen Rant]]'' included Varnae in their \"Marvel: 10 Most Powerful Vampires\" list.<ref>{{Cite web |last=Taggers |first=C. M. |date=2021-07-26 |title=Marvel: 10 Most Powerful Vampires |url=https://screenrant.com/marvel-comics-most-powerful-vampires/ |access-date=2022-11-26 |website=ScreenRant |language=en-US}}</ref>
+* In 2022, ''[[CBR.com]]'' ranked Varnae 5th in their \"10 Most Important Marvel Vampires\" list.<ref>{{Cite web |last=Saffle |first=Ben |date=2022-02-10 |title=The 10 Most Important Marvel Vampires, Ranked |url=https://www.cbr.com/most-important-marvel-vampires/ |access-date=2022-11-16 |website=CBR |language=en-US}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix/varnae.htm Varnae] at the Appendix to the Handbook of the Marvel Universe
+*[https://marvel.fandom.com/wiki/Varnae_(Earth-616) Varnae] at Marvel Database
+*[http://www.marveldirectory.com/individuals/v/varnae.htm Varnae] at the Marvel Directory
+*[https://comicvine.gamespot.com/varnae/4005-13785/ Varnae] at Comic Vine
+*[https://www.writeups.org/varnae-vampire-marvel-comics/ Varnae] at Writeups.org
+
+{{Blade}}
+
+[[Category:Comics characters introduced in 1982]]
+[[Category:Fictional characters with immortality]]
+[[Category:Fictional characters with superhuman durability or invulnerability]]
+[[Category:Fictional hypnotists and indoctrinators]]
+[[Category:Marvel Comics Atlanteans (pre-cataclysm)]]
+[[Category:Marvel Comics characters who are shapeshifters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics vampires]]

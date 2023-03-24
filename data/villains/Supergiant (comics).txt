@@ -1,0 +1,82 @@
+{{short description|Comic book supervillain}}
+{{About|the comic book villain|the Japanese superhero|Super Giant}}
+{{In-universe|date=October 2018}}
+
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Supergiant
+| image          = Supergiant.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = Textless variant cover of ''[[Infinity (comic book)|Infinity]]'' #1 (October 2013). Art by [[In-Hyuk Lee]].
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Infinity (comic book)|Infinity]]'' #1 (August [[2013 in comics|2013]])
+| creators       = [[Jonathan Hickman]]<br>[[Jerome Ope\u00f1a]]
+| alter_ego      = 
+| full_name      = 
+| species        = Psionic entity (unknown alien race)
+| homeworld      = <!-- optional -->
+| alliances      = [[Black Order (comics)|Black Order]]
+| powers         = *Mental control
+*Intangibility
+*Telepathy
+*Immune to physical damage
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Proxima Midnight
+| addcharcat#    = 
+|}}
+'''Supergiant''' is a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Jonathan Hickman]] and [[Jerome Ope\u00f1a]], Supergiant first appeared in ''[[Infinity (comic book)|Infinity]]'' (October [[2013 in comics|2013]]).
+
+The character has made several appearances in other media such as animated television and video games.
+
+==Publication history==
+Supergiant first appeared in ''[[Infinity (comic book)|Infinity]]'' (October [[2013 in comics|2013]]) and was created by [[Jonathan Hickman]] and [[Jerome Ope\u00f1a]].<ref>{{Cite web|url=https://www.cbr.com/exclusive-introducing-the-black-order-of-infinity-part-three/|title=EXCLUSIVE: Introducing the Black Order of \"Infinity\" Part Three|date=10 May 2013}}</ref>
+
+==Fictional character biography==
+Supergiant is a member of [[Thanos]]' supervillain team [[Black Order (comics)|Black Order]]. While searching for [[Thanos]]' son [[Thane (comics)|Thane]] during the ''[[Infinity (comic book)|Infinity]]'' storyline, Supergiant and [[Corvus Glaive]] laid siege to the [[X-Mansion|Jean Grey School for Higher Learning]] and defeated the [[X-Men]]. They left after realizing that Thane was not there.<ref>''New Avengers'' vol. 3 #9. Marvel Comics.</ref>
+
+When the Black Order seized [[Wakanda]], Supergiant was left in control of [[Black Bolt]] who she would mentally order to activate the [[Illuminati (comics)|Illuminati]]'s hidden bombs in Wakanda Necropolis.<ref>''Infinity'' #5</ref> When the Illuminati arrived to save Black Bolt, Supergiant used Black Bolt's ability to defeat the heroes. Upon activating the bomb, Supergiant was faced by [[Maximus (comics)|Maximus]] who had the trigger. Maximus triggered the bomb, but also used [[Lockjaw (comics)|Lockjaw]] to transport Supergiant along with the bomb to a distant uninhabited planet where she perished in the explosion.<ref>''Infinity'' #6. Marvel Comics.</ref>
+
+During the \"No Surrender\" arc, Supergiant came back as a psychic projection, along with the rest of the Black Order, thanks to the [[Challenger (comics)|Challenger]] who had set them up against [[Grandmaster (Marvel Comics)|Grandmaster]]'s [[Lethal Legion]].<ref>''Avengers'' #676. Marvel Comics.</ref> During the battle in Antarctica, the Black Order retreat after [[Corvus Glaive]] is killed. Supergiant stays to take control of [[Jane Foster (comics)|Thor]], but is dissipated by Lethal Legion member Ferene the Other.<ref>''The Avengers'' #680. Marvel Comics</ref>
+
+==Powers and abilities==
+Supergiant has telepathic abilities, which allow her to mind-control anyone and feed on their intellect.<ref>''New Avengers'' Vol 3 #9</ref><ref>{{Cite web |last=Cheeda |first=Saim |date=2019-05-12 |title=10 Things The MCU Changed About The Black Order |url=https://screenrant.com/mcu-black-order-changes/ |access-date=2022-11-20 |website=ScreenRant |language=en-US}}</ref> At some point, she was transformed into a psionic entity.<ref>{{Cite web |last=Harn |first=Darby |date=2021-08-24 |title=10 Things Only Comic Book Fans Know About Thanos\u2019 Black Order |url=https://screenrant.com/thanos-black-order-marvel-comics-facts-trivia/ |access-date=2022-11-20 |website=ScreenRant |language=en-US}}</ref> Out of her transformation, Supergiant gained the power to phase through living beings and obstacles.<ref name=\":0\">{{Cite web |last=Moroca |first=Alexandra |date=2022-02-12 |title=MCU: Every Member Of Thanos\u2019 Black Order, Ranked By Power |url=https://www.cbr.com/mcu-thanos-black-order-power-ranked/ |access-date=2022-11-20 |website=CBR |language=en-US}}</ref> She also became immune to physical damage.<ref name=\":0\" />
+
+== Reception ==
+
+=== Accolades ===
+
+* In 2022, ''[[Screen Rant]]'' included Supergiant in their \"10 Best Cosmic Villains Not Yet In The MCU\" list.<ref>{{Cite web |last=Prom |first=Bradley |date=2022-11-18 |title=10 Best Cosmic Villains Not Yet In The MCU |url=https://screenrant.com/best-cosmic-villains-not-yet-mcu/ |access-date=2022-11-20 |website=ScreenRant |language=en-US}}</ref>
+* In 2022, ''[[CBR.com]]'' ranked Supergiant 3rd in their \"MCU: Every Member Of Thanos\u2019 Black Order, Ranked By Power\" list.<ref>{{Cite web |last=Moroca |first=Alexandra |date=2022-02-12 |title=MCU: Every Member Of Thanos\u2019 Black Order, Ranked By Power |url=https://www.cbr.com/mcu-thanos-black-order-power-ranked/ |access-date=2022-11-20 |website=CBR |language=en-US |quote=A part of the Black Order's roster in the comics, Supergiant is conspicuously absent in the MCU. That may have very well been because she is simply too strong for the heroes to realistically combat.}}</ref>
+
+==In other media==
+===Television===
+* Supergiant appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[Hynden Walch]].<ref name=\"btva\">{{cite web|url=https://www.behindthevoiceactors.com/characters/Marvel-Universe/Supergiant/|title=Supergiant Voice - Marvel Universe franchise <nowiki>|</nowiki> Behind The Voice Actors|website=behindthevoiceactors.com|access-date=July 19, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref>
+* Supergiant appears in ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'', voiced again by Hynden Walch.<ref name=\"btva\"/> This version lacks psychic powers, but can grow to a gigantic size and previously dated [[Star-Lord]] prior to the series' events. In the episode \"Undercover Angle\", Supergiant is imprisoned by the [[Nova Corps]] until the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] accidentally free her while infiltrating the organization, though [[Gamora]] is able to subdue her. In the episode \"Come and Gut Your Love\", Supergiant works with another ex-girlfriend of Star-Lord's, Lucy, to attack him after discovering he is [[J'son (character)|J'son]]'s son.
+
+===Video games===
+* Supergiant appears as a mini-boss in ''[[Marvel: Avengers Alliance]]''.<ref>{{cite web|url=https://kotaku.com/maybe-avengers-alliance-can-make-sense-of-marvels-infi-1374070201|title=Maybe Avengers Alliance Can Make Sense Of Marvel's Infinity Event|website=Kotaku|last=Fahey|first=Mike|date=August 23, 2013|access-date=April 29, 2018}}</ref>
+* Supergiant appears as a boss and unlockable playable character in ''[[Marvel Future Fight]]''.<ref>{{Cite web |title=Marvel Future Fight Marks The Return Of The Black Order In New Update |url=https://www.gamespot.com/articles/marvel-future-fight-marks-the-return-of-the-black-order-in-new-update/1100-6492085/ |access-date=2022-11-20 |website=GameSpot |language=en-US}}</ref>
+* Supergiant appears as a playable character in ''[[Lego Marvel Super Heroes 2]]'' as part of the ''Infinity War'' [[Downloadable content|DLC]].<ref>{{Cite web |title=Supergiant (Character) |url=https://www.giantbomb.com/supergiant/3005-30134/ |access-date=2022-11-20 |website=Giant Bomb |language=en}}</ref>
+* Supergiant appears as a boss in ''[[Marvel Ultimate Alliance 3: The Black Order]]'', voiced again by Hynden Walch.<ref name=\"btva\"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Supergiant_%28Earth-616%29 Supergiant] at Marvel Wiki
+* [http://www.comicvine.com/supergiant/4005-90521/ Supergiant] at Comic Vine
+* {{comicbookdb|type=character|id=71802|title=Supergiant}}
+
+{{Thanos}}
+{{Marvel Cosmic}}
+
+[[Category:Characters created by Jonathan Hickman]]
+[[Category:Comics characters introduced in 2013]]
+[[Category:Fictional hypnotists and indoctrinators]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics extraterrestrial supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics female supervillains]]

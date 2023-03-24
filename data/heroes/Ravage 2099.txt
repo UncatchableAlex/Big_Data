@@ -1,0 +1,94 @@
+{{See also|Ravage (Marvel Comics)}}
+
+{{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
+<!-- |character_name=Ravage 2099 -->
+|image=Ravage2099-1.jpg
+|converted=y
+|caption=Cover to ''Ravage 2099'' #1. Art by [[Paul Ryan (cartoonist)|Paul Ryan]].
+|alter_ego=Paul-Phillip Ravage
+|species=[[Human]] (formerly)<br> Human mutate (currently)
+|homeworld=[[Marvel 2099]] (Earth-928)
+|publisher=[[Marvel Comics]]
+|debut=''Ravage 2099'' #1 (December  [[1992 in comics|1992]])
+|creators=[[Stan Lee]] and [[Paul Ryan (cartoonist)|Paul Ryan]]
+|alliances=ECO<br/>[[Alchemax]]<br/>Green Berets
+|aliases=Beast-Man
+|powers='''(First mutation)''':
+*Bio-energy blasts 
+'''(Second mutation)''':
+*[[Superhuman strength]], stamina, durability, speed, agility, reflexes, and senses
+*Razor-sharp horns, fangs, and claws 
+*[[Healing factor]]
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Ravage 2099
+}}
+'''Ravage 2099''' ('''Paul-Phillip Ravage''') is a [[fictional]] [[Character (arts)|character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+
+Ravage was created by writer [[Stan Lee]] and penciler [[Paul Ryan]] in [[1992 in comics|1992]] for [[Marvel Comics]]' [[Marvel 2099]] [[imprint (trade name)|imprint]]. Ravage\u2019s first full appearance was in ''Ravage 2099'' #1, which was released alongside other Marvel 2099 universe titles ''[[Spider-Man 2099]]'', ''[[Doom 2099]]'', and ''[[Punisher 2099]]''.<ref name=regrettable>{{cite book |last1=Morris |first1=Jon |title=The League of Regrettable Superheroes: Half Baked Heroes from Comic Book History |date=2015 |publisher=Quirk Books |location=Philadelphia, Pennsylvania |isbn=978-1-59474-763-2 |pages=232\u2013233}}</ref>  Unlike the other titles, Ravage was original, not a [[Re-imagining#Reimagining|re-imagined]] version of an existing character. The series ran for 33 issues cover-dated December 1992 to August 1995.
+
+Ryan said artist [[John Byrne (comics)|John Byrne]] had originally been on ''Ravage 2099'' but that, \u201cApparently there were creative differences. It didn\u2019t work out. John walked away \u2026 I was pretty good friends with [[Tom DeFalco]], who was the Editor-in-Chief at the time,\" and so Ryan offered to lend a hand if needed. \"I wasn\u2019t looking for another series because I was working on two at the time. Couple of days later, Tom calls me and says how would you like to do ''Ravage 2099''? \u2026 I said why don\u2019t you check with Stan first to make sure its ok if I pencil the series \u2026 and Stan said, Why not?\"<ref name=Doom2099>{{cite web|url=http://www.doom2099.com/25/february_ravage/paul_ryan_interview.html|title=An interview with artist Paul Ryan|website=Doom2099.com}}</ref>
+ 
+Ryan designed the character, doing \u201cthree or four incarnations\u201d that kept getting rejected by Lee and editor [[Joey Cavalieri]]. \u201cAnd I was getting very frustrated because this is for free basically when you are developing the character. So my wife Linda says Why don\u2019t you just call Stan? Find out what he wants firsthand.\" Ryan did so, and with Lee doing \u201cmost of the talking, I just listened and was sketching out what he was describing. So then I faxed it over to him. He had several minor tweaks to it, but he said this is what I want. I said great.\u201d<ref name=Doom2099 />
+
+Lee wrote through issue #8 (July 1993), which he plotted only, leaving the script to writers [[Pat Mills]] and [[Tony Skinner]], who then fully wrote the series from #9-32 (August 1993 - July 1995), with Ian Edgington writing the finale. Lee said in an interview that he had wanted Marvel \"to create a new line of superheroes. I said, \u2018What if we did our characters 100 years from now?\u2019\u201d He said ''Ravage 2099'' was \u201cdifferent from anything I've done before. I'm taking my time with the story. He doesn\u2019t even get his superpowers until the end of the fourth issue.\u201d<ref>{{cite news|url=https://www.newspapers.com/image/311870719/?terms=%22Stan%20Lee%22%20ravage&match=1|first=Dan|last= Taylor |title= Stan Lee: It's Marvelous|work=[[The Press Democrat]]|location=Santa Rosa, CA|date=6 November 1992}}</ref>
+ 
+[[Grant Miehm]] became the regular penciler with issue #8, then Joe Bennett from #22-31 (September 1994 - June 1995). [[Jos\u00e9 Delbo]] filled-in on #9, and [[Marcos Tetelli]] penciled the last two issues.
+
+Lee\u2019s [[Spider-Man]] co-creator, [[Steve Ditko]] had originally been considered as penciler after Byrne left, according to Marvel Editor-in-Chief Tom DeFalco:
+{{blockquote|Stan said he\u2019d love to work with Ditko again, so I gave Steve a call, and he agreed to come in and meet with Stan. The fan in me was thinking \u2018I\u2019m going to watch history unfold \u2014Stan Lee and Steve Ditko in the same room together.\u2019 Steve came in, very flattered to be asked. The guys started to shake hands, then gave each other a big hug. It was a very warm reception between the two of them, and it was obvious these were two guys who really liked each other and really respected each other. Stan laid out his ideas for the series, they had a really terrific discussion going back and forth. \u2026 [But Ditko] just didn\u2019t agree with some of the philosophical underpinnings. Stan thanked him a lot, and they opened the door for future work together. Steve walked away, and I could tell he was really thrilled to have seen Stan.<ref>Tom DeFalco interviewed for \"Who Is Steve Ditko?\" by Christopher Lawrence, [[Wizard (magazine)|Wizard]] #124 (January 2002). Reprinted by The Jack Kirby Museum as [https://kirbymuseum.org/blogs/dynamics/2012/05/02/ditko-the-mystery-behind-the-man-article-2002/ \u201cDitko: The Mystery Behind the Man Article\u201d].</ref>}}
+
+==Fictional character biography==
+'''Paul-Phillip Ravage''' was the chief executive officer of ECO Central, a subsidiary of the [[Alchemax]] mega-corporation, that worked to combat polluters. Ravage's life changed when he was framed for murder in response to questioning the secrets of the company and the violent, often fatal, methods it used. Becoming a fugitive and armed with a blaster, a [[gear|cog]] used as a [[shuriken]], and a [[Kevlar]] vest, Ravage was the target of both the police and Alchemax executive Anderthorp Henton. His companions while on the run were the orphan Dack, the son of a man his company killed, and Tiana Sikoski, an Asian-American woman who had been his secretary. Ravage's baptism of fire came when he battled a mutroid (one of the human convicts mutated by the radiation and biohazards of the prison island Hellrock), ECO security and Alchemax troops as found himself traveling from civilization to Hellrock.<ref>''Ravage 2099'' #1-2 (December  1992 - January 1993)</ref> There he became the mutated hero of the Decred Barrio, an impoverished community of superhero worshipers located on the outskirts of the city. Ravage freed Tiana from the despotic ruler of Hellrock, Lord Dethstryk, who planned to invade the rest of the world and destroy all humans. He would become Ravage's primary nemesis.<ref>''Ravage 2099'' #3 (February 1993)</ref>
+
+On Hellrock, where genetic scientist Dr. Ursell began helping him, Ravage was mutated by prolonged exposure to the island's radiation and biohazards, and for a short time his hands generated lethal energy. Eventually, his body devolved to a primal beast form, making Ravage far more attuned to the animal world than the human, and giving him horn-like protuberances on his head and face; talons on his hands and feet; fangs; a long vertical scar on the left side of his face; enhanced senses, strength, and speed; and the ability to regenerate from almost any wound. Ravage soon found he could also transform back to human form when necessary.<ref>''Ravage 2099'' #4-5 (March\u2013April 1993)</ref> He escaped Hellrock using a rebuilt [[Fantasticar]], formerly that of the 20th-century heroes the [[Fantastic Four]], and eventually reconnected with his estranged family. He succeeds his assassinated brother, Jean-Claude Ravage, as head of the mega-corporation Green Globe.<ref>''Ravage 2099'' #19 (June 1994)</ref> Tiana meanwhile became a version of the Norse entity [[Hel (being)|Hel]],<ref>''Ravage 2099'' #10 (September 1993)</ref> given powers by Alchemax as part of a scheme to control or kill vigilante superheroes such as Ravage.<ref>''Ravage 2099'' #11-13 (October-December  1993)</ref>
+
+Alongside Dack and Tiana, he battled the New Atlanteans,<ref>''Ravage 2099'' #6-7 (May\u2013June 1993)</ref> and then Anderthorp Henton.<ref>''Ravage 2099'' #8 (July 1993)</ref> His body was then reverted to bestial form by radiation.<ref>''Ravage 2099'' #9 (August 1993)</ref>
+
+Ravage attempted to control his animal side, with mixed results, and comes to accept it.<ref>''Ravage 2099'' #21-24 (Aug.-November 1994)</ref> He encountered 2099's [[Punisher 2099|Punisher]], [[X-Men 2099|X-Men]], [[Spider-Man 2099|Spider-Man]] and [[Doom 2099|Doctor Doom]]. He eventually returned to Hellrock, along with Tiana/Hela and the sentient bat-creature Ferra.<ref>''Ravage 2099'' #27 (February 1995)</ref> There, with the help of Dethstryk's confidant, the Seeress, Ravage killed Dethstryk and took over Hellrock.<ref>''Ravage 2099'' #28 (March 1995)</ref> Ravage presumably died after Doom immersed him and the rest of the island in liquid [[adamantium]], with Doom then launching the island into space.<ref>''Ravage 2099'' #33 (August 1995)</ref>
+
+==Powers, abilities, and equipment==
+Ravage gained powers through surgery and being mutated by the radiation of Hellrock, where he battled Deathstryk to free Tiana. Initially, they consisted of the ability to project bio-kinetic energy beams from his hands that were physically taxing on Ravage's toll. However, these [[Genetics|genetic]] [[Body modification|alterations]] have changed him even further and then, he became a man-beast. In his new form, he has enhanced strength, stamina, durability, speed, agility, reflexes, healing, and senses, as well as natural horns, fangs, and claws.<ref>''Official Handbook of the Marvel Universe A to Z Update'' Vol 1 #5 (February 2011)</ref>
+
+He formerly wore a vest of unknown 21st century fabric lined with \"ultimate\" Kevlar (an experimental laser-proof material), molecular gloves (to contain the kinetic energies stored up in his hands for one hour), and adjustable opti-lens (that enables long-range telescopic and infra-red sight).
+
+== Collected editions ==
+{| class=\"wikitable\"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Spider-Man 2099 Classic Vol. 3''
+|''Ravage 2099'' #15 and ''Spider-Man 2099'' (vol. 1)#15\u201322, ''X-Men 2099'' #5, ''Doom 2099'' #14, ''Punisher 2099'' #13
+|February 2015
+|{{ISBNT|978-0785193029}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.marvel.com/characters/ravage-earth-928 Ravage 2099] at Marvel.com
+*[https://marvel.fandom.com/wiki/Ravage_2099 Ravage 2099] at Marvel Database
+
+{{Marvel Multiverse}}
+{{Stan Lee}}
+
+[[Category:1992 comics debuts]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Defunct American comics]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters with superhuman durability or invulnerability]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Marvel 2099 characters]]
+[[Category:Marvel 2099 titles]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Vigilante characters in comics]]

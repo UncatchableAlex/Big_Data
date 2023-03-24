@@ -1,0 +1,54 @@
+{{short description|Comics character}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          = Hellfire (J. T. Slade).jpg
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| debut          = ''[[The Mighty Avengers]]'' #13 (July 2008)
+| creators       = [[Brian Michael Bendis]] (writer)<br />[[Alex Maleev]] (artist)
+| alter_ego      =
+| full_name      =
+| species        = [[Human]]
+| homeworld      = <!-- optional -->
+| alliances      = [[Secret Warriors (Team White)|Secret Warriors]]<br />[[Hydra (comics)|Hydra]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = 
+| powers         = Superhuman Reflexes<br />Hellfire Channeling
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = 
+}}
+'''Hellfire''' ('''J. T. Slade''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+Hellfire was portrayed by [[Axle Whitehead]], in the TV series ''[[Agents of S.H.I.E.L.D.]]'' in the third and fourth seasons.
+
+== Publication history ==
+{{expand-section|date=May 2016}}
+Hellfire first appeared in ''[[The Mighty Avengers]]'' #13 and was created by [[Brian Michael Bendis]] and [[Alex Maleev]].
+
+== Fictional character biography ==
+[[Nick Fury]] recruits [[Carter Slade]]'s grandson, James Taylor James (also known as '''J. T. Slade'''), introduced in ''The Mighty Avengers'' #13, to be part of Fury's team against the \"[[Secret Invasion]]\" of the shape-shifting alien [[Skrull]]s.<ref>''Secret Invasion'' #3</ref> The character roll call at the beginning of ''Secret Invasion'' #4 (Sept. 2008) refers to J. T. as \"Hellfire\". Hellfire goes on to make numerous appearances in the ongoing series, ''[[Secret Warriors (comic book)|Secret Warriors]]''. He is later revealed to be a [[Hydra (comics)|HYDRA]] double agent.<ref>''Secret Warriors'' #16</ref>
+
+Nick Fury allows Hellfire to fall to his death as a result of the character's double dealings.<ref>''Secret Warriors'' #22</ref>
+
+== Powers and abilities ==
+Slade has superhuman reflexes and the ability to cause a chain to ignite in flame and cause massive damage.
+
+== In other media ==
+J. T. James appears in ''[[Agents of S.H.I.E.L.D.]]'', portrayed by [[Axle Whitehead]].<ref>{{cite web| title=Marvel's 'Agents of SHIELD' Eliminates HYDRA, Adds Hellfire Before the Kree, \"The Singularity\" sees the end of one major threat before the invasion of another.|first=Eric |last=Francisco |date=27 April 2016 |url=https://www.inverse.com/article/14882-marvel-s-agents-of-shield-eliminates-hydra-adds-hellfire-before-the-kree |accessdate=25 May 2016}}</ref><ref name=\"316Synopsis\">{{cite web|url=http://www.thefutoncritic.com/listings/20160328abc04/ |title=(#316) \"Paradise Lost\" |publisher=[[The Futon Critic]] |accessdate=March 29, 2016 |archiveurl=https://www.webcitation.org/6gNElxUwi?url=http://www.thefutoncritic.com/listings/20160328abc04/ |archivedate=March 29, 2016 |url-status=live }}</ref><ref name=\"Hellfire\">{{cite web|url=http://www.ign.com/articles/2016/04/27/agents-of-shield-the-singularity-review|title=Marvel's Agents of SHIELD: \"The Singularity\" Review|last=Goldman|first=Eric|publisher=[[IGN]]|date=April 26, 2016|accessdate=April 27, 2016|archiveurl=https://web.archive.org/web/20160428101806/http://www.ign.com/articles/2016/04/27/agents-of-shield-the-singularity-review|archivedate=April 28, 2016|url-status=live}}</ref> This version is an [[Inhumans|Inhuman]] demolitions expert and former mercenary. First appearing in the episode \"[[Paradise Lost (Agents of S.H.I.E.L.D.)|Paradise Lost]]\", [[Daisy Johnson (Marvel Cinematic Universe)|Daisy Johnson]] and [[Lincoln Campbell]] seek him out for a [[Kree (Marvel Cinematic Universe)|Kree]] device in his possession.<ref>{{cite episode|title=[[Paradise Lost (Agents of S.H.I.E.L.D.)|Paradise Lost]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Stanzler, Wendey (director); George Kitson and Sharla Oliver (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 12, 2016|season=3|number=16}}</ref> In the episode \"[[The Singularity (Agents of S.H.I.E.L.D.)|The Singularity]]\", James joins forces with [[Hive (Agents of S.H.I.E.L.D.)|Hive]] and goes through [[Terrigen Mist|Terrigenesis]], receiving the power to ignite objects and make them explode on contact.<ref>{{cite episode|title=[[The Singularity (Agents of S.H.I.E.L.D.)|The Singularity]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Brown, Garry A. (director); Lauren LeFranc (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 26, 2016|season=3|number=18}}</ref> James continues to work with Hive until he is defeated by [[Melinda May]] in the episode \"[[Ascension (Agents of S.H.I.E.L.D.)|Ascension]]\".<ref>{{cite episode|title=[[Ascension (Agents of S.H.I.E.L.D.)|Ascension]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); Jed Whedon (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 17, 2016|season=3|number=22}}</ref> As of the episode \"[[Let Me Stand Next to Your Fire]]\", he has taken up work at a fireworks store and sold out his fellow Inhumans to the [[Watchdogs (Marvel Comics)|Watchdogs]] before he is defeated by [[Robbie Reyes (Agents of S.H.I.E.L.D.)|Robbie Reyes]] and taken into [[S.H.I.E.L.D. (Marvel Cinematic Universe)|S.H.I.E.L.D.]] custody.<ref>{{cite episode|title=[[Let Me Stand Next to Your Fire]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Turner, Brad (director); Matt Owens (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 18, 2016|season=4|number=4}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://marvel.wikia.com/wiki/James_Taylor_James_%28Earth-616%29 Hellfire] at Marvel Wiki
+* [http://comicvine.gamespot.com/hellfire/4005-54526/ Hellfire] at Comic Vine
+* [http://marvelcinematicuniverse.wikia.com/wiki/Hellfire Hellfire] at Marvel Cinematic Universe
+
+[[Category:Characters created by Brian Michael Bendis]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Hydra (comics) agents]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
